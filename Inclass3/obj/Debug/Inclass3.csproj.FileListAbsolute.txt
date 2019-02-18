@@ -1,0 +1,10 @@
+C:\Users\enriq\source\repos\Inclass3\Inclass3\bin\Debug\Inclass3.exe.config
+C:\Users\enriq\source\repos\Inclass3\Inclass3\bin\Debug\Inclass3.exe
+C:\Users\enriq\source\repos\Inclass3\Inclass3\bin\Debug\Inclass3.pdb
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.csprojAssemblyReference.cache
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.Form1.resources
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.Properties.Resources.resources
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.csproj.GenerateResource.cache
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.exe
+C:\Users\enriq\source\repos\Inclass3\Inclass3\obj\Debug\Inclass3.pdb
